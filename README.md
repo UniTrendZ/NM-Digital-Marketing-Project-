@@ -12,10 +12,10 @@ Vaisakh K - 310820214016 - NM ID 7EDAF1D25EF2032AC9342EDA99503F32
 
 PROJECT TITLE - CREATE WEBSITE USING CANVA
 
-WEBSITE LINK USING CANVA - [Your link here](https://unitrendzshopping.my.canva.site/)
+WEBSITE LINK (CANVA) - [Your link here](https://unitrendzshopping.my.canva.site/)
+WEBSITE LINK (WIX) - [Your link here](https://unitrendz.wixsite.com/unitrendz)
 
-WEBSITE LINK USING WIX - [Your link here](https://unitrendz.wixsite.com/unitrendz)
-
-PROJECT VIDEO -  [Your link here](https://drive.google.com/file/d/1GuiQ3L-FsBQmaCik-qQAUqf5p9U5ZaAX/view?usp=drive_link)
+PROJECT VIDEO (CANVA) -  [Your link here](https://drive.google.com/file/d/1GuiQ3L-FsBQmaCik-qQAUqf5p9U5ZaAX/view?usp=drive_link)
+PROJECT VIDEO (WIX) -  [Your link here](https://drive.google.com/file/d/1gzxNjUWh9xT0R8qh00IWPlMuIaenOZ4Q/view?usp=sharing)
 
 PROJECT REPORT DOCUMENTATION - [Your link here](https://docs.google.com/document/d/1AWBUn6gYfeYqiig3kMNtYaMAf9fFF52t/edit?usp=sharing&ouid=111051625094855724993&rtpof=true&sd=true)
